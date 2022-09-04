@@ -1,4 +1,4 @@
-# Trybe-Project-04-Trybewarts-
+# Trybe-Project-04-Trybewarts
 Project developed by Bootstrap (Library)
 
 # Access the project:
