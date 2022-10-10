@@ -2,7 +2,7 @@
 Project developed by Bootstrap (Library)
 
 # Access the project:
-### http://127.0.0.1:5501/trybeWarts/index.html
+### https://math180.github.io/trybeWarts/index.html
 
 # Preview:
 
